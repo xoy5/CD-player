@@ -9,7 +9,6 @@ using namespace std;
 #define STATE_PLAYING 3// Plyta ma odwarzac obraz
 
 int state = STATE_IDLE;
-int plyta{};
 int odpowiedz{};
 string film{};
 
